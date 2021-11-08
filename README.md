@@ -19,7 +19,9 @@ Discord: artiom#4507
 
 [<img align="left" alt="codeSTACKr.com" width="25px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Discord" width="25px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />][email]
+[<img align="left" alt="codeSTACKr | Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />][discord]
+[<img align="left" alt="codeSTACKr | Email" width="25px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" />][email]
+
 
 <br />
 
@@ -35,6 +37,7 @@ Discord: artiom#4507
 
 [twitter]: https://twitter.com/ShadowTG101
 [instagram]: https://www.instagram.com/lil.russian/
+[discord]: https://mail.google.com/mail/u/1?ui=2&ik=4108b7897a&attid=0.1&permmsgid=msg-a:r-6191478425172134723&th=17d010a25d0ee364&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-o6-ANdtRsBVDNNp3SUpzR30hd5jRjJdd66j_TnwIbw3G_qcx-3clw8Hv4OaKfuVyXFAwTl5_g_zB740nvLUYsJPIJVLCBGX-0cywevA5CBOKBZBmChi7IyhM&disp=emb&realattid=17d010a149590e1e2381
 [email]: mailto:artiomcovali2006@gmail.com
 
 ![Tronbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrussian&show_icons=true&theme=radical)
