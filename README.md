@@ -13,7 +13,7 @@ Discord: artiom#4507
 - 📚 I'm a sophomore at Lowell Highschool.
 - 👀 I’m interested in JavaScript, web dev, & game dev. 
 - 🌱 I’m currently learning web dev and python.
-- 💞️ I’m looking to collaborate on any project or start-up. Just message me through any of the ways below!
+- 💞️ I’m open to collaborate on any project or start-up. Just message me through any of the ways below!
 
 ### Connect with me:
 
