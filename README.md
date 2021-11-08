@@ -7,7 +7,7 @@ Discord: artiom#4507
 <!---- put website here[![Website](https://img.shields.io/badge/Eddy-Zhu-brightgreen)](https://eddyzhu.netlify.app/)-->
 
 
-## I'm a Student, Developer!!
+## I'm a Student Developer!!
 
 - 👋 I’m Artiom. Nice to meet you!
 - 📚 I'm a sophomore at Lowell Highschool.
@@ -35,6 +35,6 @@ Discord: artiom#4507
 
 [twitter]: https://twitter.com/ShadowTG101
 [instagram]: https://www.instagram.com/lil.russian/
-[email]: artiomcovali2006@gmail.com
+[email]: mailto:artiomcovali2006@gmail.com
 
 ![Tronbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilrussian&show_icons=true&theme=radical)
