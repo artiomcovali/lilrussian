@@ -3,11 +3,8 @@
 Skills: JavaScript / HTML / CSS
 
 Discord: artiom#4507
-
 <!---- put website here[![Website](https://img.shields.io/badge/Eddy-Zhu-brightgreen)](https://eddyzhu.netlify.app/)-->
-
-
-## I'm a Student Developer!!
+## 
 
 - 👋 I’m Artiom. Nice to meet you!
 - 📚 I'm a sophomore at Lowell Highschool.
