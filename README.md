@@ -1,6 +1,6 @@
 #### 👋 Hello, I'm Artiom Covali!
 
-Skills: JavaScript / HTML / CSS
+Skills: Python / JavaScript / HTML / CSS
 
 Discord: artiom#4507
 
@@ -8,7 +8,7 @@ Discord: artiom#4507
 
 - 👋 I’m Artiom. Nice to meet you!
 - 📚 I'm a sophomore at Lowell Highschool.
-- 👀 I’m interested in JavaScript, web dev, & game dev. 
+- 👀 I’m interested in Python, JavaScript, & web dev. 
 - 🌱 I’m currently learning web dev and python.
 - 💞️ I’m open to collaborate on any project or start-up. Just message me through any of the ways below!
 
